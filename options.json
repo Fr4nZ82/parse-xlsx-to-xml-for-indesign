@@ -1,0 +1,27 @@
+{
+  "nomeFile":"dati.xlsx",
+  "nomeElemento":"ElementoProgrammatori",
+  "nomeInfo": "InfoProgrammatori",
+  "nomeTabella":"TabelleProgrammatori",
+  "nomeFiglioTabella": "Tabella",
+  "riconoscimentoUnivoco": "NOME",
+  "campiInfo": [
+    "IMMAGINE",
+		"LOGO",
+		"NOME",
+		"TITOLO",
+		"TESTO"
+  ],
+  "campiTabella":[
+    "CODICE",
+    "DESCRIZIONE",
+    "MODELLO",
+    "CONFEZIONE",
+    "PREZZO",
+    "CATEGORIA"
+  ],
+  "chiaviHref":[
+    "IMMAGINE",
+		"LOGO"
+  ]
+}
